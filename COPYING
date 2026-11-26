@@ -1,0 +1,7 @@
+The StreetMap is provided under the terms of the MIT License, according with:
+
+	LICENSES/MIT
+
+With the exception of `map.cpp` and `json.cpp`, provided under the Open Data Commons Open Database License (ODbL) v1.0:
+
+	LICENSES/ODbL-1.0
